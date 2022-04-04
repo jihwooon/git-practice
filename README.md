@@ -1,6 +1,3 @@
 # react-startdd
-asdfaafgg
-asddjwjghkhkhww
-ffffhhhhaaaaagkgkkkk
-gkdsdasdjkljlkjljwjkljlk
-jkjkjkjkjkjkjkjkjvnnnnbbhh
+google, apple, bananan sibalnom
+fuck u

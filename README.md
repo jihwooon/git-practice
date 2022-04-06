@@ -2,4 +2,5 @@
 
 
 ## HTML 그려보기
-![IMG_0450](https://user-images.githubusercontent.com/68071599/161969302-7f24fbd5-f628-4abb-a73a-8e98bc16b3de.PNG)
+![IMG_0450](https://user-images.githubusercontent.com/68071599/161974709-195299cd-5aa2-4982-9e9d-41346c74e04e.PNG)
+
